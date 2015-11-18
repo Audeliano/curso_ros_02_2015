@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="curso_de_ros" name="emissor_node" type="emissor"/>
+	<node pkg="curso_de_ros" name="receptor_node" type="receptor"/>
+</launch>
